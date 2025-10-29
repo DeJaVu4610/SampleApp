@@ -98,7 +98,7 @@ title_11 = slide_11.shapes.title
 title_11.text = "Real-Life Business Problems"
 content_11 = slide_11.shapes.placeholders[1].text_frame
 content_11.text = "1. Customer churn prediction.\n" \
-                  "2. Sales forecasting.\n" \
+                  "2. Sales & Inventory forecasting.\n" \
                   "3. Market segmentation.\n" \
                   "4. Supply chain optimization.\n" \
                   "5. Pricing strategy development."
