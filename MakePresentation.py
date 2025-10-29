@@ -73,7 +73,7 @@ content_8.text = "1. Interpret results in the context of the business problem.\n
                  "2. Identify key drivers, opportunities, and challenges.\n" \
                  "3. Develop actionable recommendations."
 
-# Slide 9: Step 6 - Communication and Storytelling
+# Slide 9: Step 6 - Communication & Storytelling
 slide_9 = prs.slides.add_slide(prs.slide_layouts[1])
 title_9 = slide_9.shapes.title
 title_9.text = "Step 6: Communication and Storytelling"
@@ -87,7 +87,7 @@ slide_10 = prs.slides.add_slide(prs.slide_layouts[1])
 title_10 = slide_10.shapes.title
 title_10.text = "Tools and Techniques"
 content_10 = slide_10.shapes.placeholders[1].text_frame
-content_10.text = "1. Data visualization tools (Tableau, Power BI, D3.js).\n" \
+content_10.text = "1. Data visualisation tools (Tableau, Power BI, D3.js, QlikSense).\n" \
                   "2. Statistical software (R, Python, SPSS).\n" \
                   "3. Machine learning libraries (scikit-learn, TensorFlow).\n" \
                   "4. Data mining tools (SQL, Excel)."
